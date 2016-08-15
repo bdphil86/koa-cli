@@ -1,0 +1,23 @@
+{
+  "name": "koa-cli",
+  "version": "0.0.1",
+  "description": "Simple CLI for scaffolding Koa projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berwin/koa-cli.git"
+  },
+  "keywords": [
+    "koa",
+    "cli"
+  ],
+  "author": "Berwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berwin/koa-cli/issues"
+  },
+  "homepage": "https://github.com/berwin/koa-cli#readme"
+}
