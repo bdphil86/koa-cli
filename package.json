@@ -1,6 +1,6 @@
 {
   "name": "koa-cli",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Simple CLI for scaffolding Koa projects",
   "main": "index.js",
   "scripts": {
